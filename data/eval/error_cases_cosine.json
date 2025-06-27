@@ -1,0 +1,66 @@
+[
+  {
+    "query_id": 3,
+    "query": "terdakwa mengakui menyimpan ekstasi sebanyak 50 butir di lemari rumahnya setelah mendapatkannya dari...",
+    "predicted": [
+      11,
+      35,
+      8,
+      15,
+      25
+    ],
+    "ground_truth": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "query_id": 4,
+    "query": "terdakwa menjadi kurir narkoba lintas kota untuk mengedarkan sabu atas perintah seseorang bernama Ek...",
+    "predicted": [
+      8,
+      33,
+      34,
+      23,
+      11
+    ],
+    "ground_truth": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "query_id": 5,
+    "query": "mahasiswa ditangkap setelah terbukti menjual tembakau sintetis via media sosial dengan bukti chat pe...",
+    "predicted": [
+      24,
+      30,
+      14,
+      13,
+      12
+    ],
+    "ground_truth": [
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "query_id": 9,
+    "query": "terdakwa merupakan bagian dari jaringan internasional yang menyuplai sabu ke beberapa kota besar di ...",
+    "predicted": [
+      8,
+      19,
+      23,
+      29,
+      4
+    ],
+    "ground_truth": [
+      9,
+      10,
+      11
+    ]
+  }
+]

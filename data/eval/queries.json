@@ -1,0 +1,82 @@
+[
+  {
+    "query": "narkotika  namun setelah dilakukan penggeledahan terhadap terdakwa cahyadi als okep ditemukan barang bukti berupa 1 (satu) buah tas warna hitam berisikan 12 (dua belas) paket narkotika jenis sabu...",
+    "ground_truth": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "query": "pada saat dilakukan penggeledahan terhadap terdakwa ditemukan 1 bungkus plastik bening narkotika jenis sabu di dalam kamar kontrakan...",
+    "ground_truth": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "query": "terdakwa mengakui menyimpan ekstasi sebanyak 50 butir di lemari rumahnya setelah mendapatkannya dari seseorang di Jakarta...",
+    "ground_truth": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "query": "terdakwa menjadi kurir narkoba lintas kota untuk mengedarkan sabu atas perintah seseorang bernama Eka (DPO)...",
+    "ground_truth": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "query": "mahasiswa ditangkap setelah terbukti menjual tembakau sintetis via media sosial dengan bukti chat pemesanan...",
+    "ground_truth": [
+      5,
+      6,
+      7
+    ]
+  },
+  {
+    "query": "terdakwa kedapatan menanam ganja di halaman rumah belakang dan mengaku untuk konsumsi pribadi...",
+    "ground_truth": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "query": "sabu ditemukan dalam bungkus teh cina di dalam koper milik terdakwa saat dilakukan pemeriksaan bandara...",
+    "ground_truth": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "query": "pelajar berperan menjadi perantara jual beli narkoba jenis sabu dengan upah 500 ribu rupiah per gram...",
+    "ground_truth": [
+      8,
+      9,
+      10
+    ]
+  },
+  {
+    "query": "terdakwa merupakan bagian dari jaringan internasional yang menyuplai sabu ke beberapa kota besar di Indonesia...",
+    "ground_truth": [
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "query": "kokain ditemukan di dalam dashboard mobil yang dikendarai oleh terdakwa saat razia malam di tol Cipularang...",
+    "ground_truth": [
+      10,
+      11,
+      12
+    ]
+  }
+]
