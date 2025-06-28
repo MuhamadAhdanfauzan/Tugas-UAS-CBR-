@@ -98,7 +98,7 @@ All documents are logged in the cleaning process log (`logs/cleaning.log`) with 
 
 #### Outputs of This Stage
 
-- The folder `/data/raw/*.txt` contains 47 cleaned decision text files that passed validation.
+- The folder `/data/raw/*.txt` contains 35 cleaned decision text files that passed validation.
 - The log file `/logs/cleaning.log` contains the integrity validation records for each case.
 - All documents have an integrity ratio above 88%, indicating that the extraction and cleaning process has been successfully carried out.
 
@@ -107,7 +107,7 @@ Example of validation log:
 [OK] case_002 processed (89.29% valid)  
 [OK] case_003 processed (89.45% valid)  
 ...  
-[OK] case_047 processed (89.34% valid)
+[OK] case_035 processed (89.34% valid)
 
 ---
 
@@ -154,7 +154,7 @@ The column structure used includes:
 - `pihak`
 - `text_full`
 
-Number of cases successfully processed: **47 cases**
+Number of cases successfully processed: **35 cases**
 
 Example terminal output:
 
@@ -407,13 +407,13 @@ Here is a summary of the model evaluation results:
   Saved at: `data/eval/retrieval_metrics.csv`
   
 model,accuracy,precision,recall,f1_score  
-TF-IDF + Cosine,0.9,1.0,0.9,0.9473684210526315
+TF-IDF + Cosine,0.6,1.0,0.6,0.75
 
 - **Prediction (SVM)**  
 Saved at: `data/eval/prediction_metrics.csv`
 
 model,accuracy,precision,recall,f1_score  
-TF-IDF + SVM,0.6,1.0,0.6,0.75
+TF-IDF + SVM,0.4,1.0,0.4,0.57
 
 ##### 2. Visualization
 
